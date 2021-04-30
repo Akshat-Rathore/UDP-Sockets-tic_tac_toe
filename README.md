@@ -1,5 +1,9 @@
 # UDP-Sockets-tic_tac_toe
 UDP protocols used for implementing a client and server system for game play.
+
+## Game Session:
+![alt text](https://github.com/Akshat-Rathore/UDP-Sockets-tic_tac_toe/blob/main/Game-Session/won.jpeg)
+
 ## Network Quick Primer:
 When data is sent on an Ethernet connection in many applications, the data
 is sent between IP address and port pairs (collectively called a socket
@@ -102,8 +106,7 @@ bool isWinner(char board[3][3], char xo)
 5. A check is made to see if the game is a draw (no winner and 9 moves).
 
 
-## Game Session:
-![alt text](https://github.com/Akshat-Rathore/UDP-Sockets-tic_tac_toe/blob/main/Game-Session/won.jpeg)
+
 
 
 
