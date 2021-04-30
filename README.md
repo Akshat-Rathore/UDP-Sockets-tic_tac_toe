@@ -2,8 +2,10 @@
 UDP protocols used for implementing a client and server system for game play.
 
 ## Game Session:
+### Winning Scenario
 ![alt text](https://github.com/Akshat-Rathore/UDP-Sockets-tic_tac_toe/blob/main/Game-Session/won.jpeg)
-
+### Draw Scenario
+![alt text](https://github.com/Akshat-Rathore/UDP-Sockets-tic_tac_toe/blob/main/Game-Session/draw.jpeg)
 ## Network Quick Primer:
 When data is sent on an Ethernet connection in many applications, the data
 is sent between IP address and port pairs (collectively called a socket
