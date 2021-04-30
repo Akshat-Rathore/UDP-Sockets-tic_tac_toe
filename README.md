@@ -109,7 +109,7 @@ void showBoard(char board[3][3])
 bool isWinner(char board[3][3], char xo)
 5. A check is made to see if the game is a draw (no winner and 9 moves).
 
-#### NOTE : This application is only made for Unix OS. For windows the include statements need to be adjusted.
+#### NOTE : This application is only made for Unix-based OS. For windows the include statements need to be adjusted.
 
 
 
