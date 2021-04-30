@@ -102,6 +102,9 @@ bool isWinner(char board[3][3], char xo)
 5. A check is made to see if the game is a draw (no winner and 9 moves).
 
 
+## Game Session:
+![alt text](https://github.com/Akshat-Rathore/UDP-Sockets-tic_tac_toe/blob/main/Game-Session/won.jpeg)
+
 
 
 
